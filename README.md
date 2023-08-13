@@ -1,5 +1,5 @@
 # ffmpeg_teststream
-Mit FFmpeg einen SRT - Teststream auf einem **Raspberry Pi Zero 2 W** erstellen:
+Mit FFmpeg einen SRT - Teststream auf einem **Raspberry Pi Zero 2 W** zum Abruf zur Verfügung stellen (SRT listener):
 ```
 #!/bin/bash
 
